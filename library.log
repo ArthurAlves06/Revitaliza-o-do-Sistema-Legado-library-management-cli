@@ -1,0 +1,41 @@
+2026-05-19 20:05:36,069 - utils.db - CRITICAL - Arquivo do banco ausente: Banco de dados não encontrado: database.db
+2026-05-19 20:08:25,887 - utils.db - CRITICAL - Arquivo do banco ausente: Banco de dados não encontrado: database.db
+2026-05-19 20:13:32,788 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:13:32,789 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:13:57,586 - repositories.account_repository - INFO - Conta criada: USERNAME=Arthur
+2026-05-19 20:13:57,587 - utils.login - INFO - Nova conta criada: Arthur
+2026-05-19 20:13:57,590 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:13:57,590 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:13:57,591 - __main__ - INFO - Sistema encerrado.
+2026-05-19 20:14:59,419 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:14:59,420 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:15:30,751 - utils.login - INFO - Aluno autenticado: Arthur (ID=1)
+2026-05-19 20:17:48,567 - utils.login - WARNING - Tentativa de login admin falhou para usuário: admin
+2026-05-19 20:17:48,568 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:17:48,568 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:17:48,568 - __main__ - INFO - Sistema encerrado.
+2026-05-19 20:22:00,559 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:22:00,559 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:22:23,264 - utils.login - WARNING - Tentativa de login admin falhou para usuário: admin
+2026-05-19 20:22:23,265 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:22:23,266 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:22:23,266 - __main__ - INFO - Sistema encerrado.
+2026-05-19 20:23:09,363 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:23:09,364 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:23:24,100 - utils.login - WARNING - Tentativa de login admin falhou para usuário: admin
+2026-05-19 20:23:24,101 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:23:24,101 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:23:24,101 - __main__ - INFO - Sistema encerrado.
+2026-05-19 20:26:20,666 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:26:20,667 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:26:34,007 - utils.login - INFO - Aluno autenticado: Arthur (ID=1)
+2026-05-19 20:26:43,309 - utils.utils - INFO - Cartão da biblioteca gerado em library_card_Arthur.pdf
+2026-05-19 20:29:56,593 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:29:56,593 - utils.db - INFO - Conexão com banco encerrada.
+2026-05-19 20:29:56,593 - __main__ - INFO - Sistema encerrado.
+2026-05-19 20:30:06,973 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:30:06,974 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-05-19 20:30:17,411 - utils.login - INFO - Admin autenticado: admin
+2026-05-19 20:32:21,584 - repositories.book_repository - INFO - Livro adicionado: ID=1 TITLE=harry potter
+2026-05-19 20:32:34,319 - utils.login - INFO - Aluno autenticado: Arthur (ID=1)
+2026-05-19 20:32:38,241 - controllers.student_controller - INFO - Livro 1 reservado pelo aluno 1

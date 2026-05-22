@@ -1,0 +1,6 @@
+rich
+python-dotenv
+fuzzywuzzy
+python-Levenshtein
+reportlab
+requests

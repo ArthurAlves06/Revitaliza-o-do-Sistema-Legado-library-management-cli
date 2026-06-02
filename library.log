@@ -39,3 +39,8 @@
 2026-05-19 20:32:21,584 - repositories.book_repository - INFO - Livro adicionado: ID=1 TITLE=harry potter
 2026-05-19 20:32:34,319 - utils.login - INFO - Aluno autenticado: Arthur (ID=1)
 2026-05-19 20:32:38,241 - controllers.student_controller - INFO - Livro 1 reservado pelo aluno 1
+2026-06-02 19:14:34,953 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-06-02 19:14:34,955 - utils.db - INFO - Conexão com banco estabelecida: database.db
+2026-06-02 19:14:39,096 - utils.db - INFO - Conexão com banco encerrada.
+2026-06-02 19:14:39,097 - utils.db - INFO - Conexão com banco encerrada.
+2026-06-02 19:14:39,097 - __main__ - INFO - Sistema encerrado.
